@@ -1,0 +1,26 @@
+{
+  "name": "bitgud-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "bitgud-plugin": "bitgud-plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitGud/bitgud-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitGud/bitgud-tester/issues"
+  },
+  "homepage": "https://github.com/BitGud/bitgud-tester#readme",
+  "devDependencies": {
+    "bitgud-plugin": "^1.0.7",
+    "husky": "^7.0.1"
+  }
+}
